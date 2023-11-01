@@ -1,13 +1,16 @@
 title: MayStudio
-description: Application Development Studio - Game & Application
 author:
   name: MayStudio
   email: maystudiox@gmail.com
+
+description: Application Development Studio - Game & Application
 
 theme: minima
 
 header_pages:
   - index.md
+  - about.md
+  - about.md
   - about.md
 
 show_excerpts: true
