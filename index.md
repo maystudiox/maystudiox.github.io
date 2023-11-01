@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: MayStudio – Application Development Studio – Game & Application
 ---
 
