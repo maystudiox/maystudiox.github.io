@@ -1,4 +1,5 @@
 ---
-title: MayStudio – Application Development Studio – Game & Application
+title: MayStudiox
+description: Application Development Studio - Game & Application
 ---
 
