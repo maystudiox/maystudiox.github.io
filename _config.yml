@@ -10,7 +10,7 @@ theme: minima
 header_pages:
   - index.md
   - about.md
-  - about.md
-  - about.md
+  - contact.md
+  - privacy-policy.md
 
 show_excerpts: true
