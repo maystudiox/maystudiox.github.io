@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-# permalink: /about/
+permalink: /about/
 ---
 
 <p style="font-size:23px">Our Games and Applications have been completed by <strong>MayStudio.</strong></p>
